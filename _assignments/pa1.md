@@ -5,6 +5,6 @@ name: PA1
 released-on: "2023-01-11"
 ---
 
-# CSE 11 Programming Assignment 1
+# CSE 8B Programming Assignment 1
 
 TBD
