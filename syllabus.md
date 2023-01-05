@@ -32,10 +32,10 @@ There are a few components to your grade in the course:
 
 - 10% Lecture Participation
 - 15% Completing book exercises in Stepik and course engagement activities (surveys)
-- 50% Programming assignments
-- 25% Exams
-  - 10% Midterm Exam
-  - 15% Final Exam
+- 40% Programming assignments
+- 35% Exams
+  - 15% Midterm Exam
+  - 20% Final Exam
 
 <img src="./cse_grading_scale.png" width="100%">
 
