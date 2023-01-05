@@ -33,7 +33,7 @@ The university requires us to determine which students commence academic activit
 
 To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday of Week 2
 to ensure that they are certified.
-- [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/42398/quizzes/125571){:target="_blank"} 
+- [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/42489/quizzes/125584){:target="_blank"} 
 
 Videos (to watch **before** problem session):
 
