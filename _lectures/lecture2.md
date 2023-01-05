@@ -17,13 +17,13 @@ worksheets:
 
 ---
 
-## Problem Session 2 – Classes and Fields
+## Lecture 2 – Classes and Fields
 
 _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
-Readings to be completed **before** problem session.
+Readings to be completed **before** lecture.
 
 You will need to make an account on Stepik to have your work saved.
 - [Stepik 1.1-1.3](https://stepik.org/lesson/559661/step/1?unit=553721){:target="_blank"}
