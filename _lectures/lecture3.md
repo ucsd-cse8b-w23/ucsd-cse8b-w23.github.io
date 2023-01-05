@@ -35,7 +35,7 @@ To do this automatically, we are using a survey in Canvas that every student mus
 to ensure that they are certified.
 - [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/42489/quizzes/125584){:target="_blank"} 
 
-Videos (to watch **before** problem session):
+Videos (to watch **before** lecture):
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
