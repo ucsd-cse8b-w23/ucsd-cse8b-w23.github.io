@@ -13,17 +13,17 @@ worksheets:
 
 _{{ page.released-on }}_
 
-Welcome to the page for the first problem session! Each problem session will
+Welcome to the page for the first lecture! Each lecture will
 come with a page like this that summarizes the videos you should watch and
 readings you should complete **beforehand**, along with any handouts for the day
-and code examples and notes from the problem solving session.
+and code examples and notes from the lecture.
 
 Session plan:
 - 2-3 min: Introduce instructors/staff
 - 2-3 min: Say hi to the people around you
 - 15 min: Handout + discussion
 - 20 min: syllabus
-    - Problem Solving Sessions, videos
+    - Lectures, videos
     - Stepik
     - Programming
     - Exams
