@@ -31,7 +31,6 @@ Session plan:
     - Schedule
     - Lecture 1 and 2 pages
 - 5 min: q/a
-- 30 mins: Peanut butter sandwhich
 
 Before the first lecture, there are no videos to watch. You should familiarize
 yourself with the [syllabus](../syllabus.html).
