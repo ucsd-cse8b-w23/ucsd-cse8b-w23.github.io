@@ -29,6 +29,10 @@ Readings to be completed **before** problem session.
 
 - No Stepik readings for this lecture
 
+Survey to be completed by Friday (2 points)
+
+- [CSE 8B - Experiences in CSE - Winter 2023 I](https://docs.google.com/forms/d/e/1FAIpQLSelQ56jbkmHmWjqOgNaBafj9kt06YPY1wZ_tWCJJYkUcfhwkg/viewform)
+
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
 To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday of Week 2
