@@ -31,7 +31,7 @@ Readings to be completed **before** problem session.
 
 Survey to be completed by Friday (2 points)
 
-- [CSE 8B - Experiences in CSE - Winter 2023 I](https://docs.google.com/forms/d/e/1FAIpQLSelQ56jbkmHmWjqOgNaBafj9kt06YPY1wZ_tWCJJYkUcfhwkg/viewform)
+- [CSE 8B - Experiences in CSE - Winter 2023 I](https://forms.gle/JQpXU6F8eMGs5sxh7)
 
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
