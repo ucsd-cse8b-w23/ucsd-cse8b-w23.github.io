@@ -117,7 +117,7 @@ If you get stuck at any point, do any one of the following:
 
 Download the starter code for this assignment by downloading this repository
 using the “Download ZIP” button:
-[https://github.com/ucsd-cse8b-w23/cse11-pa1-starter](https://github.com/ucsd-cse8b-w23/cse11-pa1-starter)
+[https://github.com/ucsd-cse11-w23/cse11-pa1-starter](https://github.com/ucsd-cse11-w23/cse11-pa1-starter)
 
 ![PA1 download](./pa1-download.png){:width="100%"}
 
