@@ -7,7 +7,7 @@ videos:
 
 worksheets:
   - title: Lecture
-    url: https://drive.google.com/file/d/1uqL7zye795kz9WHlgUt7mfHJyX9_uRqm/preview
+    url: https://drive.google.com/file/d/1uqL7zye795kz9WHlgUt7mfHJyX9_uRqm
 ---
 
 ## Lecture 1 – Introduction
