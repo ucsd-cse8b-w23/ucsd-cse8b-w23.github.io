@@ -14,7 +14,8 @@ videos:
     url: https://drive.google.com/file/d/1NWioGWa0pA86IlP-Ry7DMDneNdc64xXX
 
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1usYwejzkP9fl8oqABofkJByaOJ2oAYGy
 ---
 
 ## Lecture 2 – Classes and Fields
