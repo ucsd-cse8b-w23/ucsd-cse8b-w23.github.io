@@ -103,7 +103,7 @@ Here is a list of items to check for before submitting PA1.
     choose CentOS (first option) on the screen you get when it starts up.
   - Locate your CSE8B account, which you can find using the ACMS account lookup tool:
     [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php).
-    The username starts with "cs11s222". You will need to do an initial password
+    The username starts with "cs8bwi23". You will need to do an initial password
     reset, which you only need to do once. It may take up to 20 minutes for the new
     password to be effective.
   - Once you are logged in, you can follow the instructions for using Visual
