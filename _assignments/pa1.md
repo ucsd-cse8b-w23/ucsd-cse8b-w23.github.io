@@ -243,14 +243,16 @@ Call your method on at least 2 different examples. Can you call your method with
 - In the file `transcript.txt`, show your program running and the expected values are produced by copy/pasting from the terminal.
 - You can justify the output based on an external source or your own design description
 
-
 ## Submission
 
 Your submission will include the following:
 
-1. A code submission of your program with the methods you wrote for part two, at [PA1 gradescope assignment](https://www.gradescope.com/courses/482393/assignments/2536617/). You should select and upload the files `DesignRecipeExamples.java` and `transcript.txt`
+1. [Part 2](#part-2---compile-time-errors): `CompileTimeErrors.java` (with your changes.)
+1. [Part 3](#part-3---writing-methods): `DesignRecipeExamples.java` and `transcript.txt`.
 
-A more detailed list of requirements can be found [here](#submission-checklist)
+Submit these files to the [PA1 Gradescope assignment](https://www.gradescope.com/courses/482393/assignments/2536617/). 
+
+For a more detailed list of requirements, please go to the [submission checklist](#submission-checklist). 
 
 ## Grading
 
