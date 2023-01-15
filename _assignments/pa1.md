@@ -248,7 +248,7 @@ Call your method on at least 2 different examples. Can you call your method with
 
 Your submission will include the following:
 
-1. A code submission of your program with the methods you wrote for part two, at [PA1 gradescope assignment](https://www.gradescope.com/courses/482393/assignments/2536617/). You should select and upload the files `DesignRecipeExamples.java` and `transcript.txt`
+1. A code submission of your program with the methods you wrote for part two, at [PA1 gradescope assignment](https://www.gradescope.com/courses/482393/assignments/2536617/). You should select and upload the files `DesignRecipeExamples.java`, `CompileTimeErrors.java` and `transcript.txt`
 
 A more detailed list of requirements can be found [here](#submission-checklist)
 
