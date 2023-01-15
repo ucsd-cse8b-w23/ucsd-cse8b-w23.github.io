@@ -248,7 +248,7 @@ Call your method on at least 2 different examples. Can you call your method with
 Your submission will include the following:
 
 1. [Part 2](#part-2---compile-time-errors): `CompileTimeErrors.java` (with your changes.)
-1. [Part 3](#part-3---writing-methods): `DesignRecipeExamples.java` and `transcript.txt`.
+2. [Part 3](#part-3---writing-methods): `DesignRecipeExamples.java` and `transcript.txt`.
 
 Submit these files to the [PA1 Gradescope assignment](https://www.gradescope.com/courses/482393/assignments/2536617/). 
 
