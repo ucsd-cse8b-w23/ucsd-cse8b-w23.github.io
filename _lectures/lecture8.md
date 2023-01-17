@@ -21,9 +21,9 @@ worksheets:
 
 ## Problem Session {{ page.index }} – {{ page.name }}
 
-## Pre-class Tasks
-
 _{{ page.released-on }}_
+
+## Pre-class Tasks
 
 Stepik reading (to complete before class):
 - [Stepik 6](https://stepik.org/lesson/573911/step/1?unit=568501)
