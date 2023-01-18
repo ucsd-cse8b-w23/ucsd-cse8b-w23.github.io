@@ -16,7 +16,8 @@ videos:
     url: https://drive.google.com/file/d/1WnSDBSOGSXnsvAvgdYduFYzuS9RTIscK
 
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1wvwl6Ccaf6ImlMcSEy5uHw7VQg3fI3v6
 ---
 
 ## Problem Session 4 – Strings and More Methods 
