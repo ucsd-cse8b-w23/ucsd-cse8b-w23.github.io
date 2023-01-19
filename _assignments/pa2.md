@@ -88,7 +88,7 @@ assignment.
 ## Part 2
 
 You will write all your code and comments in `ExampleTweets.java`. This file will contain all three classes that you write, including
-`Tweet`, `User`, and `ExamplesTweets`.
+`Tweet`, `User`, and `ExampleTweets`.
 
 In this programming assignment, you will be using tweets as data and
 representing them using objects. The choices we make will be similar to those
@@ -176,7 +176,7 @@ social media example).
 
 In your test class `ExampleTweets`, you will construct User objects and Tweet
 objects corresponding to these four tweets you found.  In your test file
-`ExamplesTweets.java`, you will call each method you write at least twice using
+`ExampleTweets.java`, you will call each method you write at least twice using
 the objects you constructed to build these examples. Since there are 5 methods,
 you should have at least 10 method calls total to test your work, and every
 method should be called at least twice.  For each tweet you found, write a
