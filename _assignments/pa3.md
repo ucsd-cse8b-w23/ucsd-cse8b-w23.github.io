@@ -16,12 +16,11 @@ released-on: "2023-01-25"
 ## Collaboration
 
 Different assignments in this course have different collaboration policies. On
-this assignment, you can collaborate with anyone in the course, but you must
-create your own memory diagrams and descriptions for answers.  In your
-submission, give credit to all students and course staff who helped you with
-this assignment by noting their name and how you used their ideas or work. Note
-that using someone's work without giving credit to them is a violation of
-academic integrity.
+this assignment, you can collaborate with anyone in the course, including
+sharing code. In your submission, give credit to all students and course staff
+who helped you with this assignment by noting their name and how you used their
+ideas or work. Note that using someone's work without giving credit to them is a
+violation of academic integrity.
 
 # Starter Code
 
