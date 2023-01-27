@@ -13,10 +13,10 @@ _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
-Stepik reading (to complete before class on April 15):
+Stepik reading (to complete before class):
 - [Stepik 7](https://stepik.org/lesson/584041/step/10?unit=578810)
 
-No pre-watch videos for April 15 (take the time to review some others!).
+No pre-watch videos for this lecture.
 
 If you want to watch ahead, the next topic will be from here, but we won't
 discuss interfaces until the next class:
