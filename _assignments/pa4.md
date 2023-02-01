@@ -14,11 +14,13 @@ released-on: "2023-02-01"
 
 ## Collaboration
 Different assignments in this course have different collaboration policies. On
-this assignment, you **cannot** share code publicly on Piazza or with any other
-students in the course. If you need to share code, ask in a private Piazza post
-or in 1-on-1 hours. Still _do_ ask any public code questions about lecture
-code, quizzes that are past, or other conceptual questions, just no code from
-this PA.
+this assignment, you can collaborate with anyone in the course, including
+sharing code. In your submission, give credit to all students and course staff
+who helped you with this assignment by noting their name and how you used their
+ideas or work. Note that using someone's work without giving credit to them is a
+violation of academic integrity.
+
+# Starter Code
 
 You can get the starter code at
 
