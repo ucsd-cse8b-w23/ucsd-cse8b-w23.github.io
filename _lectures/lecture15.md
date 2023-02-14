@@ -15,7 +15,8 @@ videos:
   - title: Loop Tables
     url: https://drive.google.com/file/d/1PHAkE99a1uC-nBEF7NILHAD2Xq8e1Rvn
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1VYe_MC71C_O73Muag02jFcyd298d6IHs
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
