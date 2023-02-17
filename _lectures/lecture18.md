@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 18
 name: More Loops Practice
-released-on: "2023-02-22"
+released-on: "2023-02-24"
 videos:
   - title: More Array Construction
     url: https://drive.google.com/file/d/11YimqsLqytwGygYh6YVmCSI7lo1iYHo_
