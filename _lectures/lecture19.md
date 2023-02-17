@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 19
 name: File I/O, Exceptions
-released-on: "2023-02-24"
+released-on: "2023-02-27"
 videos:
   - title: Exceptions in Max
     url: https://drive.google.com/file/d/1TSkL7d1F2ooWNaOWEWCRtRnJ9nLVKyC6
