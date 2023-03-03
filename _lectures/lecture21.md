@@ -11,7 +11,8 @@ videos:
     - title: "Implementing with Generics"
       url: https://drive.google.com/file/d/1bXk5leiFDmvc8b5fnqaox0Xd1AdwXS1_
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1xLG_M6-l-GCOdX04jBALZGq28rMHmS9l
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -39,6 +40,6 @@ Videos:
 <div class="worksheetBox">
 {{ worksheet.title }}
 <br>
-<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+<iframe src="{{ worksheet.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 {% endfor %}
