@@ -9,7 +9,8 @@ videos:
     - title: "Wrapper Classes (Integer/Double/Boolean)"
       url: https://drive.google.com/file/d/1fxNkBh_BBr9uLfRtpU8X2B2FT9dq9Lne
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1xg4Fx6bfCe8YqhrXugXVrqwszcxuwoGL
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -37,6 +38,6 @@ Videos:
 <div class="worksheetBox">
 {{ worksheet.title }}
 <br>
-<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+<iframe src="{{ worksheet.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 {% endfor %}
