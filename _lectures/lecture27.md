@@ -19,6 +19,10 @@ Please submit your CAPEs for the course at [https://cape.ucsd.edu/](https://cape
 
 The theme of this lecture is “Ask Us (Almost) Anything!” Feel free to ask questions about the course, CSE, our experience, programming, and so on. This can be a mix of review and other topics you find helpful. 
 
+## Handout
+
+Coming soon...
+
 ## Completed Worksheets from Lecture
 
 {% for worksheet in page.worksheets %}
