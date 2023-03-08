@@ -11,7 +11,8 @@ videos:
     - title: "ArrayLists – Overloading"
       url: https://drive.google.com/file/d/1hOvnt1rBitXqE91kS7xSrTrSZVNaX9dZ
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1yVzQ2COkGNvaG-UpSL9N0Z7tJCud2_NT
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -39,6 +40,6 @@ Videos:
 <div class="worksheetBox">
 {{ worksheet.title }}
 <br>
-<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+<iframe src="{{ worksheet.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 {% endfor %}
