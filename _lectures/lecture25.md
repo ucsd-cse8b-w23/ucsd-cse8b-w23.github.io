@@ -22,6 +22,8 @@ _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
+[Stepik 13](https://stepik.org/lesson/575460/step/1?unit=570041) (Abstract Classes)
+
 Survey to be completed (again) by Friday (2 points)
 
 - [CSE 8B - Experiences in CSE - Winter 2023 I](https://forms.gle/JQpXU6F8eMGs5sxh7)
