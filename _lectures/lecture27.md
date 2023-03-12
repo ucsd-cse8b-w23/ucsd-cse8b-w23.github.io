@@ -21,7 +21,7 @@ The theme of this lecture is “Ask Us (Almost) Anything!” Feel free to ask qu
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/136ff6Qk8LZDZk8GxfjzZqIwO_kRa2p8S/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
