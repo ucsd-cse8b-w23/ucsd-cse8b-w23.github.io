@@ -13,7 +13,8 @@ videos:
     - title: "toString()"
       url: https://drive.google.com/file/d/1yeM6VHMe6mLeIV_dpjx0yWG6XZ7QjlPo
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/150AIO32kWUzgOFhv1ciYOydOuxCyYBSs
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
