@@ -4,7 +4,8 @@ index: 27
 name: AUA and Goodbye!
 released-on: "2023-03-17"
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1FRiJYShRJUc4sbJ1wtwg0pEeUT9zWR_Z
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
